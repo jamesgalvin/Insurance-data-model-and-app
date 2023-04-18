@@ -1,4 +1,6 @@
-# Improving interoperability of ecosystem solutions by supporting partners who are aligning their solutions with the Dynamics 365 Financial Services Accelerator and Common Data Model for Insurance. Please refer to the below documents attached in Release v1.0.3.0.
+# Insurance data model and agency app
+
+Improving interoperability of ecosystem solutions by supporting partners who are aligning their solutions with the Dynamics 365 Financial Services Accelerator and Common Data Model for Insurance. Please refer to the below documents attached in Release v1.0.3.0.
 
 Changes in this Public Preview release for insurance are -
 
